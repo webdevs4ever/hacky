@@ -7,7 +7,7 @@ plain CSS, no UI framework.
 
 ```bash
 npm install
-npm run dev      # http://localhost:4000
+npm run dev      # http://localhost:4219
 npm run build    # production bundle into dist/
 npm run preview  # serve the built bundle locally
 ```
